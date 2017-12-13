@@ -4,6 +4,6 @@ console.log(arr.filter(function (fruit) {
   return fruit.length > 6
 }))
 
-// console.log(arr.filter(fruit => {
-//   return fruit.length > 6
-// }))
+console.log(arr.filter(fruit => {
+  return fruit.length > 6
+}))

@@ -6,5 +6,5 @@ var second = list[1]
 var third = list[2]
 console.log(first, second, third)
 
-// let [first, second, third] = list
-// console.log(first, second, third)
+let [first1, second1, third1] = list
+console.log(first1, second1, third1)

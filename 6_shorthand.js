@@ -7,8 +7,8 @@ let person = {
 }
 console.log(person)
 
-// let person = {
-//     first,
-//     last
-// }
-// console.log(person)
+let person2 = {
+    first,
+    last
+}
+console.log(person2)

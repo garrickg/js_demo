@@ -1,5 +1,5 @@
 // i still in scope outside {}
-for (var i = 0; i < 10; i++) {
+for (var i = 0; i < 10; i++) { // expect 1-9 printed
   console.log(i)
 }
 console.log(i)
