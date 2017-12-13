@@ -6,8 +6,8 @@ let vegetables = ['Carrots', 'Potatoes', 'Tomatoes']
 let shoppingList = fruits.concat(vegetables)
 console.log(shoppingList)
 
-// let shoppingList2 = [...fruits, ...vegetables]
-// console.log(shoppingList2)
+let shoppingList2 = [...fruits, ...vegetables]
+console.log(shoppingList2)
 
 // let newShoppingList = shoppingList
 // shoppingList.push('Milk')

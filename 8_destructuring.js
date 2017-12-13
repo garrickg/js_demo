@@ -8,3 +8,8 @@ console.log(first, second, third)
 
 let [first1, second1, third1] = list
 console.log(first1, second1, third1)
+
+// let a = 'world', b = 'hello';
+// [a, b] = [b, a]
+// console.log(a)
+// console.log(b)

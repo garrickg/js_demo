@@ -6,7 +6,7 @@ function addToShoppingList (args) {
 }
 addToShoppingList('Carrots', 'Peas', 'Milk', 'Bread')
 
-// function addToShoppingList2 (...items) {
-//   console.log(items)
-// }
-// addToShoppingList2('Carrots', 'Peas', 'Milk', 'Bread')
+function addToShoppingList2 (...items) {
+  console.log(items)
+}
+addToShoppingList2('Carrots', 'Peas', 'Milk', 'Bread')

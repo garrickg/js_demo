@@ -1,7 +1,7 @@
 let first = 'Garrick'
 let last = 'Gunn'
 
-let person = {
+var person = {
     first: first,
     last: last
 }
